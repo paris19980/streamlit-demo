@@ -1,4 +1,8 @@
-streamlit==1.26.0
-pandas==2.0.3
-plotly_express==0.4.1
+streamlit
+pandas
+plotly_express
 openpyxl
+
+# You can also generate the requirements.txt file automatically by https://github.com/damnever/pigar
+# pip install pigar
+# pigar generate
