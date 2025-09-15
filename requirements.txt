@@ -6,3 +6,6 @@ openpyxl
 # You can also generate the requirements.txt file automatically by https://github.com/damnever/pigar
 # pip install pigar
 # pigar generate
+# 运行网页所需补充库
+annotated_text==0.3.1
+numpy==1.26.0
